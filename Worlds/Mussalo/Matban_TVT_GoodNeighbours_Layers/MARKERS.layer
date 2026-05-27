@@ -1,0 +1,24 @@
+$grp CRF_MissionMarker : "{33A148C36F4D422D}PrefabsMissionMaking/Markers/ObjectiveMarkers/NEW/INDFOR_Ins_ObjectiveMarker.et" {
+ indforSiteA {
+  editor EntityEditorProps "{692769E905250B19}" {
+  }
+  coords 3537.9 14.38 5475.235
+  m_sImageSet "{2EFEA2AF1F38E7F0}UI/Textures/Icons/icons_wrapperUI-64.imageset"
+  m_MarkerColor 0.071 0.561 0.192 1
+  m_sQuadName "objective-A"
+  m_fWorldSize 50
+  m_sDescription "Objective A"
+  m_sMissionMarkerDescription "Bomb Site A"
+ }
+ indforSiteB {
+  editor EntityEditorProps "{692769E905250B19}" {
+  }
+  coords 3251.296 13.948 5535.089
+  m_sImageSet "{2EFEA2AF1F38E7F0}UI/Textures/Icons/icons_wrapperUI-64.imageset"
+  m_MarkerColor 0 0.502 0.125 1
+  m_sQuadName "objective-A"
+  m_fWorldSize 50
+  m_sDescription "Objective B"
+  m_sMissionMarkerDescription "Bomb Site B"
+ }
+}

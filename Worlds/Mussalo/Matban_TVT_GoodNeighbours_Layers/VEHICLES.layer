@@ -1,0 +1,151 @@
+$grp CRF_VehicleSpawner {
+ {
+  coords 3587.328 10.509 6386.37
+  angles 0 177.366 0
+  m_rVehicle "{44338ACCBD5D7D29}Prefabs/Vehicles/Wheeled/Conflict_Variants/BF_BRDM2_Conflict_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3574.366 9.143 6426.1
+  angles 0 159.744 0
+  m_rVehicle "{A223CBB0F2C45372}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3580.828 9.807 6404.316
+  angles 0 170.444 0
+  m_rVehicle "{F9FD7E24B28538EE}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3577.492 9.74 6414.828
+  angles 0 170.444 0
+  m_rVehicle "{F9FD7E24B28538EE}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3571.555 9.442 6436.933
+  angles 0 170.444 0
+  m_rVehicle "{F9FD7E24B28538EE}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3583.935 10.303 6393.302
+  angles 0 151.824 0
+  m_rVehicle "{A223CBB0F2C45372}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3568.068 8.328 6448.93
+  angles 0 165.489 0
+  m_rVehicle "{671AA29846EC7406}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3564.908 7.898 6462.847
+  angles 0 177.366 0
+  m_rVehicle "{44338ACCBD5D7D29}Prefabs/Vehicles/Wheeled/Conflict_Variants/BF_BRDM2_Conflict_UK.et"
+  m_sFactionKey "BLUFOR"
+ }
+ {
+  coords 3290.865 13.427 5534.113
+  angles 0 14.856 0
+  m_rVehicle "{BAC0B367204C1488}Prefabs/Vehicles/Wheeled/LR_3Series/Civvie/3Series_SWB_Civvie_Base.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3288.525 12.921 5523.059
+  angles 0 14.856 0
+  m_rVehicle "{B3C8EC88E7782C78}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_CIV_pohona.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3284.371 12.331 5498.477
+  angles 0 14.856 0
+  m_rVehicle "{D4855501D5B12AF2}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_teal.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3282.278 11.945 5479.773
+  angles 0 14.856 0
+  m_rVehicle "{57A441224AC02CF3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_Randomized.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3284.959 13.377 5508.417
+  angles 0 14.856 0
+  m_rVehicle "{5555DCAFADB8CE2A}Prefabs/Vehicles/Wheeled/S105/S105_rally.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3294.289 13.408 5545.85
+  angles 0 14.856 0
+  m_rVehicle "{700494DD8269767B}Prefabs/Vehicles/Wheeled/LR_3Series/Civvie/3Series_LWB_Civvie_V8_Yellow.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3298.037 13.739 5574.947
+  angles 0 14.856 0
+  m_rVehicle "{0B2C142387AF9D3A}Prefabs/Vehicles/Wheeled/S105/Event/S105_rally_12.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3298.695 13.671 5584.195
+  angles 0 14.856 0
+  m_rVehicle "{BF05D804EE8ACB4C}Prefabs/Vehicles/Wheeled/S105/Event/S105_rally_Mlada_Boleslav_9.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3300.716 13.796 5594.643
+  angles 0 14.856 0
+  m_rVehicle "{988A61BA68420AFE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_base.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3305.217 13.929 5606.147
+  angles 0 14.856 0
+  m_rVehicle "{C7CE8044B5E301F5}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_CIV_randomized.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  coords 3296.74 13.689 5564.397
+  angles 0 14.856 0
+  m_rVehicle "{C27FF923CEBDA4E5}Prefabs/Vehicles/Wheeled/S105/Event/S105_rally_69.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_bShouldAddAmmo 0
+ }
+ {
+  editor EntityEditorProps "{6927028B28BF1E04}" {
+  }
+  coords 3363.417 11.831 5512.126
+  angles 0 14.856 0
+  m_rVehicle "{A06ECE752C790CFC}Prefabs/Vehicles/Wheeled/SR5/Armed/DShK/SR5_Armed_DShK_Red.et"
+  m_sFactionKey "INDFOR"
+  m_bShouldRespawnOnSideRespawn 0
+  m_aAdditionalVehicleItems {
+   CRF_VehicleGearScriptAdditionalItem "{6927028B22D2BF06}" {
+   }
+  }
+ }
+}
